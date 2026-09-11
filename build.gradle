@@ -29,6 +29,10 @@ maven {
 name = "MavenRepo3"
 url = "https://repo.maven.apache.org/maven2/"
 }
+maven {
+name = "MavenRepo4"
+url = "https://repo.maven.apache.org/maven2/"
+}
 
     mavenCentral()
 }
